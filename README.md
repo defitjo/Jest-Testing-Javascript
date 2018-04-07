@@ -8,6 +8,4 @@ Writing tests for the following functions:
 
 * A `calculator` object that contains the basic operations: `add`, `subtract`, `divide`, and `multiply`.
 
-* `Caesar Cipher`
-
 * `Array Analysis` a function that takes an array of numbers and returns an object with the following properties: `average`, `min`, `max`, and `length`

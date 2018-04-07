@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing-javascript",
+  "version": "1.0.0",
+  "description": "javascript tests:",
+  "main": "capitalize-string.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defitjo/Jest-Testing-Javascript.git"
+  },
+  "author": "Devon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defitjo/Jest-Testing-Javascript/issues"
+  },
+  "homepage": "https://github.com/defitjo/Jest-Testing-Javascript#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
